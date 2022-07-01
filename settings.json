@@ -1,0 +1,20 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14,
+    "code-runner.ignoreSelection": true,
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",        
+        "python": "Scripts"
+        
+    },
+    "code-runner.runInTerminal": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.testing.unittestEnabled": true,
+
+    "[pyhton]":{
+        "editor.formatOnSave": true
+    }
+    
+}
