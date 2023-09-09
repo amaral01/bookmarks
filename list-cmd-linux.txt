@@ -1,0 +1,40 @@
+ls	Lista o conteúdo de um diretório
+alias	Define ou exibe pseudônimos
+unalias	Remove definições do alias
+pwd	Imprime o diretório de trabalho
+cd	Diretório de mudanças
+cp	Copia arquivos e diretórios
+rm	Remove arquivos e diretórios
+mv	Movimenta (renomeia) arquivos e diretórios
+mkdir	Cria diretórios
+man	Exibe página de manual de outros comandos
+touch	Cria arquivos vazios
+chmod	Muda as permissões dos arquivos
+./	Executa um executável
+exit	Sai da atual sessão shell
+sudo	Executa comandos como superusuário
+shutdown	Desliga a sua máquina
+htop	Exibe informações sobre processos e recursos
+unzip	Extrai arquivos compactados ZIP
+apt, yum, pacman	Gerenciadores de pacotes
+echo	Exibe linhas de texto
+cat	Imprime o conteúdo do arquivo
+ps	Relata o status do processo shell
+kill	Termina programas
+ping	Testa a conectividade de rede
+vim	Edição eficiente de textos
+history	Mostra uma lista de comandos anteriores
+passwd	Muda a senha do usuário
+which	Retorna o caminho binário completo de um programa
+shred	Sobreescreve um arquivo para esconder seu conteúdo
+less	Inspeciona arquivos de forma interativa
+tail	Exibe as últimas linhas de um arquivo
+head	Exibe as primeiras linhas de um arquivo
+grep	Imprime linhas que combinam padrões
+whoami	Produz o nome de usuário
+whatis	Mostra descrições de uma linha
+wc	Arquivos de contagem de palavras
+uname	Exibe informações do sistema operacional
+neofetch	Exibe informações de sistema operacional e hardware
+find	Busca por arquivos que seguem um padrão
+wget	Recupera arquivos da internet
