@@ -18,3 +18,27 @@
     }
     
 }
+{
+  "terminal.integrated.defaultProfile.linux": "pwsh",
+  
+  // Configuração completa de perfis
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "bash",
+      "icon": "terminal-bash"
+    },
+    "zsh": {
+      "path": "zsh",
+      "icon": "terminal-bash"
+    },
+    "pwsh": {
+      "path": "/snap/bin/pwsh",
+      "icon": "terminal-powershell",
+      "args": ["-Login"]
+    },
+    "powershell": {
+      "path": "/snap/bin/pwsh",
+      "icon": "terminal-powershell"
+    }
+  }
+}
